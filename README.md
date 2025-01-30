@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hi, I'm Gita Nuraeni!</h1>
-<h3 align="center">🚀 SMK Student | Game & Software Developer | Tech Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h3 align="center">🚀 SMK Student | Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A7BFF&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+game+development!;Let's+build+something+awesome!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A7BFF&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding!;Let's+build+something+awesome!">
 </p>
 
 ---
 
 ### 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,java,php" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,java" />
 </p>
 
 ---
@@ -24,16 +24,15 @@
 ---
 
 ### 🚀 **About Me**
-- 🎮 I’m currently studying **Game & Software Development**
-- 🌱 Learning **Unity, Godot, and Web Development**
-- 🎯 2024 Goals: **Build and release my first game!**
-- 💬 Ask me about **game development, web development, and coding!**
+- 🌱 Learning **Web Development and Java**
+- 🎯 2024 Goals: **Improve my programming skills!**
+- 💬 Ask me about **web development and coding!**
 
 ---
 
 ### 📩 **Let's Connect!**
 <p align="center">
-  <a href="https://instagram.com/GitaNraeni">
+  <a href="https://instagram.com/gitanraeni">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://twitter.com/GitaNraeni">
@@ -54,7 +53,7 @@
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GitaNraeni&theme=tokyonight&row=2&column=3" />
 </p>
 
 ---
@@ -73,5 +72,5 @@
 
 ### 📈 **Profile Views**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=GitaNraeni&color=blue">
 </p>

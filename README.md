@@ -46,8 +46,7 @@
 ---
 
 ### 🔥 **Quote of the Day**
-> "Code. Eat. Sleep. Repeat."
-> "Mikirin bug lebih sering daripada mikirin doi."
+> "bukan orang bener, tapi beneran orang"
 
 ---
 

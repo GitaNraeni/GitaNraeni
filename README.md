@@ -58,18 +58,6 @@
 
 ---
 
-### 🎵 **Now Playing**
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31fmqgozqz2grcq2k4z6qtq7gbvm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify.com)
-
----
-
-### 😆 **Random Meme**
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="500" />
-</p>
-
----
-
 ### 📈 **Profile Views**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GitaNraeni&color=blue">

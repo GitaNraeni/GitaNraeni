@@ -59,7 +59,7 @@
 ---
 
 ### 🎵 **Now Playing**
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify.com)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=gitaza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify.com)
 
 ---
 

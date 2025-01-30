@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm Gita Nuraeni!</h1>
 <h3 align="center">🚀 SMK Student | Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php" />
 </p>
 
 ---

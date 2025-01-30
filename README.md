@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
-<h3 align="center">🚀 Software Developer | Open Source Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Gita Nuraeni!</h1>
+<h3 align="center">🚀 SMK Student | Game & Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A7BFF&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+open-source!;Let's+build+something+awesome!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A7BFF&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+game+development!;Let's+build+something+awesome!">
 </p>
 
 ---
 
 ### 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,java,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,java,php" />
 </p>
 
 ---
@@ -24,22 +24,22 @@
 ---
 
 ### 🚀 **About Me**
-- 🌱 I’m currently learning **[technology you're learning]**
-- 🎯 2024 Goals: **[your goals]**
-- 🎵 Fun Fact: **[fun fact about you]**
-- 💬 Ask me about **[topics you are good at]**
+- 🎮 I’m currently studying **Game & Software Development**
+- 🌱 Learning **Unity, Godot, and Web Development**
+- 🎯 2024 Goals: **Build and release my first game!**
+- 💬 Ask me about **game development, web development, and coding!**
 
 ---
 
 ### 📩 **Let's Connect!**
 <p align="center">
-  <a href="https://instagram.com/kutipanGaJelas">
+  <a href="https://instagram.com/GitaNraeni">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://twitter.com/username">
+  <a href="https://twitter.com/GitaNraeni">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:your.gitanraeni@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>

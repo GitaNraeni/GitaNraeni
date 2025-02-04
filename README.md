@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hello, I'm Gita Nuraeni!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FFFF&center=true&vCenter=true&lines=SMK+Student+%7C+Aspiring+Developer;Learning+New+Things+Everyday...;Coding+is+an+Adventure!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FF00&center=true&vCenter=true&lines=SMK+Student+%7C+Dev+in+Progress;Building+Something+Cool...;Keep+Learning%2C+Keep+Coding!" />
 </p>
 
 ### 🖥️ About Me  

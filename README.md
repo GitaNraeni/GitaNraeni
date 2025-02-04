@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hello, I'm Gita Nuraeni!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FF00&center=true&vCenter=true&lines=SMK+Student+%7C+Dev+in+Progress;Building+Something+Cool...;Keep+Learning%2C+Keep+Coding!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=0000FF&center=true&vCenter=true&lines=SMK+Student+%7C+Dev+in+Progress;Building+Something+Cool...;Keep+Learning%2C+Keep+Coding!" />
 </p>
 
 ### 🖥️ About Me  
@@ -24,7 +24,7 @@
 </p>
 
 ### 🌍 Find Me Here  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/@GitaNraeni)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@GitaNraeni)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gitanraeni)  
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/gitanraeni)  
 

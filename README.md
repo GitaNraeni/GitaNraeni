@@ -16,8 +16,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" width="50%" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" width="50%" /> </p>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GitaNraeni&show_icons=true&theme=radical" width="50%" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=GitaNraeni&theme=radical" width="50%" />
+</p>
 
 ### 🌍 Find Me Here  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/yourchannel)  

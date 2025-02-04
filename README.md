@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hello, I'm [Nama Kamu]!</h1>
+<h1 align="center">🚀 Hello, I'm Gita Nuraeni!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FFFF&center=true&vCenter=true&lines=SMK+Student+%7C+Aspiring+Developer;Learning+New+Things+Everyday...;Coding+is+an+Adventure!" />
@@ -20,13 +20,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GitaNraeni&show_icons=true&theme=radical" width="50%" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=GitaNraeni&theme=radical" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" width="50%" />
 </p>
 
 ### 🌍 Find Me Here  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/yourchannel)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/yourusername)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/GitaNraeni)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gitanraeni)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/gitanraeni)  
 
 ---
 

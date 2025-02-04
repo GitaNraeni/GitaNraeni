@@ -30,4 +30,4 @@
 
 ---
 
-🔥 **"Never stop learning, never stop coding!"** 🚀  
+ **"bukan orang bener, tapi beneran orang"** 

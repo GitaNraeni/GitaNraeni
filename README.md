@@ -5,7 +5,7 @@
 </p>
 
 ### 🖥️ About Me  
-- 🎓 *SMK Class 11 → 12 | Software & Game Dev*  
+- 🎓 *SMK Class 12 | Software & Game Dev*  
 - 🚀 Exploring *JavaScript, Node.js, and Web Development*  
 - 💡 Passionate about *building projects & clean code*  
 

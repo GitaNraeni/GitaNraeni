@@ -26,6 +26,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" width="50%" />
 </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/713316cd-3749-4821-b226-040871861f06/deploy-status)](https://app.netlify.com/projects/gpasschecker/deploys)
+
 ### 🌍 Find Me Here  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@kwocag)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gitanraeni)  

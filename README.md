@@ -41,9 +41,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GitaNraeni&show_icons=true&theme=radical" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GitaNraeni&layout=compact&theme=radical" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" width="100%" />  
 </p>  
 
 ---

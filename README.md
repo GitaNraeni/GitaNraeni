@@ -47,4 +47,3 @@ An independent developer focused on customizing and enhancing chat bots and auto
 
 * **GitHub:** [github.com/GitaNraeni](https://github.com/GitaNraeni)
 * *“bukan orang bener, tapi beneran orang”*
-* 

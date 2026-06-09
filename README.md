@@ -1,23 +1,20 @@
-<h1 align="center">🚀 Hello, I'm Gita Nuraeni!</h1>  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=180&section=header&text=Gita%20Nuraeni&fontSize=55&fontColor=100000&animation=twinkling" width="100%" />
+</p>
+
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&color=00E5FF&center=true&vCenter=true&width=450&lines=Bot+Developer+%26+Customizer;Developing+%26+Enhancing+Bots;TypeScript+%26+Node.js;Coding+with+AI+Power+✨" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&color=00E5FF&center=true&vCenter=true&width=450&lines=Bot+Developer+%26+Customizer;TypeScript+%26+Node.js+Enthusiast;Coding+with+AI+Power+✨" />  
 </p>  
 
 ---
 
-### 🖥️ About Me
+### 🖥️ Profile
 
-<pre>
-┌────────────────────────────────────────────────────────┐
-│  Gita Nuraeni (Bot Developer & Customizer)             │
-│  🤖 Developing & Enhancing Bot Scripts                 │
-│  ✨ Powered by TypeScript, Node.js, and AI assistance  │
-└────────────────────────────────────────────────────────┘
-</pre>
+> ⚡ **Fresh Graduate & Independent Developer** yang fokus di ekosistem JavaScript/TypeScript. Suka ngoprek script bot, automasi, dan integrasi API buat bikin tools yang fungsional.
 
-* **💼 Current Status:** Fresh Graduate & Independent Developer
-* **⚡ Tech Focus:** JavaScript ecosystem, TypeScript, and Bot Customization
-* **⚙️ Specialty:** Modifying Scripts, API Integrations, and Enhancing Features
+* 📂 **Specialty:** Modifying Scripts, API Integrations, Webhooks
+* 🛠️ **Current Focus:** Improving automation workflows & enhancing bot features
+* 🤖 **Core Interest:** Creating custom modules and dynamic features
 
 ---
 
@@ -26,23 +23,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitaNraeni&show_icons=true&theme=radical" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" width="100%" />  
-</p>  
 
 ---
 

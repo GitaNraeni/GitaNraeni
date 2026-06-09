@@ -39,12 +39,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitaNraeni&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitaNraeni&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" width="96%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=GitaNraeni&show_icons=true&theme=radical" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitaNraeni&layout=compact&theme=radical" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" />  
 </p>  
 
 ---

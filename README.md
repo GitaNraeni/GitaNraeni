@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hello, I'm Gita Nuraeni!</h1>  
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&color=00E5FF&center=true&vCenter=true&width=450&lines=Web+Developer;TypeScript+%26+Node.js+Enthusiast;Building+Cool+Projects...;Keep+Learning%2C+Keep+Coding!" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&color=00E5FF&center=true&vCenter=true&width=450&lines=Bot+%26+Automation+Dev;Discord+%26+Telegram+Bots;TypeScript+%26+Node.js;Coding+with+AI+Power+✨" />  
 </p>  
 
 ---
@@ -9,15 +9,15 @@
 
 <pre>
 ┌────────────────────────────────────────────────────────┐
-│  Gita Nuraeni (Web Developer)                          │
-│  🚀 Passionate about building robust & clean code      │
-│  🛠️ Exploring TypeScript, bots, & automation           │
+│  Gita Nuraeni (Bot & Automation Developer)             │
+│  🤖 Building Discord, Telegram, & WhatsApp bots        │
+│  ✨ Powered by TypeScript, Node.js, and AI assistance  │
 └────────────────────────────────────────────────────────┘
 </pre>
 
 * **💼 Current Status:** Fresh Graduate & Independent Developer
-* **⚡ Tech Focus:** JavaScript ecosystem, TypeScript, and Web Development
-* **🤖 Fun Project Interest:** Automated bots & media processing tools
+* **⚡ Tech Focus:** JavaScript ecosystem, TypeScript, and Automations
+* **⚙️ Specialty:** API Integrations, Webhooks, and Scripting
 
 ---
 
@@ -39,20 +39,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GitaNraeni&show_icons=true&theme=radical&hide_border=true" width="400px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitaNraeni&layout=compact&theme=radical&hide_border=true" width="400px" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=GitaNraeni&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitaNraeni&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" width="60%" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitaNraeni&theme=radical" width="96%" />  
 </p>  
 
 ---
